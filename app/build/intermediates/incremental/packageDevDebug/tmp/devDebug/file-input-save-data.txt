@@ -1,7 +1,0 @@
-#Internal package file, do not edit.
-#Mon Sep 10 17:37:37 ICT 2018
-0.baseType=DIRECTORY
-0.base=/home/hcm-102-0006/The_News/The_News_Kotlin/app/build/intermediates/transforms/dexMerger/dev/debug/0
-0.path=classes.dex
-0.set=DEX
-count=1
