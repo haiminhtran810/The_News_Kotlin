@@ -46,6 +46,15 @@ android {
     }
   }
   buildToolsVersion '27.0.3'
+
+  productFlavors.all {}
+
+  applicationVariants.all { variant ->
+    def BASE_URL = "https://api.themoviedb.org/"
+    def API_KEY = "c733ac6aba3d86364a56d1145bc1d1f9"
+    variant.buildConfigField "String", "BASE_URL", "\"${BASE_URL}\""
+    variant.buildConfigField "String", "API_KEY", "\"${API_KEY}\""
+  }
 }
 
 dependencies {
