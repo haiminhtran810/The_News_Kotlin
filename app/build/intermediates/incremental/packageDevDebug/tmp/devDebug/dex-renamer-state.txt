@@ -1,0 +1,4 @@
+#Mon Sep 10 17:37:37 ICT 2018
+base.0=/home/hcm-102-0006/The_News/The_News_Kotlin/app/build/intermediates/transforms/dexMerger/dev/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
