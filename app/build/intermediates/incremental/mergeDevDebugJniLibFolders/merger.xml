@@ -1,2 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="/home/hcm-102-0006/The_News/The_News_Kotlin/app/src/main/jniLibs"/></dataSet><dataSet config="dev"><source path="/home/hcm-102-0006/The_News/The_News_Kotlin/app/src/dev/jniLibs"/></dataSet><dataSet config="debug"><source path="/home/hcm-102-0006/The_News/The_News_Kotlin/app/src/debug/jniLibs"/></dataSet><dataSet config="devDebug"><source path="/home/hcm-102-0006/The_News/The_News_Kotlin/app/src/devDebug/jniLibs"/></dataSet></merger>
